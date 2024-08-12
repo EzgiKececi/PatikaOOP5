@@ -1,0 +1,14 @@
+C:\Users\Yavuz\source\repos\PatikaOOPInheritance\PatikaOOPInheritance\bin\Debug\net8.0\PatikaOOPInheritance.exe
+C:\Users\Yavuz\source\repos\PatikaOOPInheritance\PatikaOOPInheritance\bin\Debug\net8.0\PatikaOOPInheritance.deps.json
+C:\Users\Yavuz\source\repos\PatikaOOPInheritance\PatikaOOPInheritance\bin\Debug\net8.0\PatikaOOPInheritance.runtimeconfig.json
+C:\Users\Yavuz\source\repos\PatikaOOPInheritance\PatikaOOPInheritance\bin\Debug\net8.0\PatikaOOPInheritance.dll
+C:\Users\Yavuz\source\repos\PatikaOOPInheritance\PatikaOOPInheritance\bin\Debug\net8.0\PatikaOOPInheritance.pdb
+C:\Users\Yavuz\source\repos\PatikaOOPInheritance\PatikaOOPInheritance\obj\Debug\net8.0\PatikaOOPInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yavuz\source\repos\PatikaOOPInheritance\PatikaOOPInheritance\obj\Debug\net8.0\PatikaOOPInheritance.AssemblyInfoInputs.cache
+C:\Users\Yavuz\source\repos\PatikaOOPInheritance\PatikaOOPInheritance\obj\Debug\net8.0\PatikaOOPInheritance.AssemblyInfo.cs
+C:\Users\Yavuz\source\repos\PatikaOOPInheritance\PatikaOOPInheritance\obj\Debug\net8.0\PatikaOOPInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\source\repos\PatikaOOPInheritance\PatikaOOPInheritance\obj\Debug\net8.0\PatikaOOPInheritance.dll
+C:\Users\Yavuz\source\repos\PatikaOOPInheritance\PatikaOOPInheritance\obj\Debug\net8.0\refint\PatikaOOPInheritance.dll
+C:\Users\Yavuz\source\repos\PatikaOOPInheritance\PatikaOOPInheritance\obj\Debug\net8.0\PatikaOOPInheritance.pdb
+C:\Users\Yavuz\source\repos\PatikaOOPInheritance\PatikaOOPInheritance\obj\Debug\net8.0\PatikaOOPInheritance.genruntimeconfig.cache
+C:\Users\Yavuz\source\repos\PatikaOOPInheritance\PatikaOOPInheritance\obj\Debug\net8.0\ref\PatikaOOPInheritance.dll
