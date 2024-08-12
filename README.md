@@ -1,1 +1,1 @@
-# PatikaOOP5
+OOP inheritance ile ilgili uygulama
